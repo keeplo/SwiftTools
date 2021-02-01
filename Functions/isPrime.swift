@@ -10,6 +10,3 @@ func isPrime(num: Int) -> Bool {
     }
     return true
 }
-
-print(isPrime(num: 3))
-print(isPrime(num: 14821))

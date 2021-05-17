@@ -26,4 +26,4 @@ Swift를 이용해서 Data Structure, Algorithms, Tool (자주 사용하는 개�
 
 # Tool
 
-* [isPrime]()
+* [isPrime](https://keeplo.tistory.com/230)

@@ -21,6 +21,7 @@ Swift를 이용해서 Data Structure, Algorithms, Tool (자주 사용하는 개�
 
 # Algorithms
 
+* [Factorial](https://keeplo.tistory.com/426)
 * DFS
 * BFS
 

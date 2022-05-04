@@ -21,9 +21,9 @@ Swift를 이용해서 Data Structure, Algorithms, Tool (자주 사용하는 개�
 
 # Algorithms
 
-* [Combination()]()
 * [Factorial 팩토리얼](https://keeplo.tistory.com/426)
 * [Permutation 순열](https://keeplo.tistory.com/428)
+* [Combination 조합](https://keeplo.tistory.com/429)
 
 * DFS
 * BFS

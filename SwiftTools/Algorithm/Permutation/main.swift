@@ -72,3 +72,9 @@ func permuteGenerater<T>(_ a: [T], _ n: Int) {
 permuteGenerater(letters, letters.count - 1)
 print(result)
 
+// [["a", "b", "c"],
+//  ["b", "a", "c"],
+//  ["c", "b", "a"],
+//  ["b", "c", "a"],
+//  ["a", "c", "b"],
+//  ["c", "a", "b"]]

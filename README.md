@@ -22,6 +22,9 @@ Swift를 이용해서 Data Structure, Algorithms, Tool (자주 사용하는 개�
 # Algorithms
 
 * [Factorial](https://keeplo.tistory.com/426)
+* [Permutation](https://keeplo.tistory.com/428)
+* [Combination()]()
+
 * DFS
 * BFS
 
@@ -30,5 +33,4 @@ Swift를 이용해서 Data Structure, Algorithms, Tool (자주 사용하는 개�
 # Tool
 
 * [isPrime](https://keeplo.tistory.com/230)
-* [Combination()]()
-* [Permutation()]()
+
